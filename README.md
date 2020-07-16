@@ -14,7 +14,7 @@ Set<> set=new HashSet<>();
 ### Here I'm taking integral values so that values will be passed as an argument to Set.
 ### The elements are added in the Set with the help of Set object and if duplicate elements are added it will return false which means the element will not be added to the Set. 
 
-# But if you are Curious to know about why Set cannot duplicates value then visit the below site to read more about it
+# But if you are Curious to know about why Set cannot contain duplicates value then visit the below site to read more about it
 
 [Stackoverflow why Set can not contain duplicate value](https://stackoverflow.com/questions/20870879/why-set-is-not-allowed-duplicate-value-which-kind-of-mechanism-used-behind-them)
 
