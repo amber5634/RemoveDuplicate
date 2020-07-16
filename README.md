@@ -2,6 +2,7 @@
 > Method 1
 # Using Set
 ## In this program I am using Set which simply ignores the duplicate.
+<span style="color:blue">some *This is Blue italic.* text</span>
 ## If you know about Collection, Set, HashSet then one thing which you will know about Set is that it can not contain duplicate elements. 
 ### Key point to remember about Set.
 ### Set however don't have it's own method. That is why in order to create an object of Set we need to use HashSet as HashSet implements Set(which means it is inherited by HashSet).
