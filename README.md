@@ -1,12 +1,13 @@
 # RemoveDuplicate
 > Method 1
 # Using Set
-## In this program I am using Set which simply ignores the duplicate.
-<span style="color:blue">some *This is Blue italic.* text</span>
+In this program I am using Set which simply ignores the duplicate.
+
 ## If you know about Collection, Set, HashSet then one thing which you will know about Set is that it can not contain duplicate elements. 
 ### Key point to remember about Set.
 ### Set however don't have it's own method. That is why in order to create an object of Set we need to use HashSet as HashSet implements Set(which means it is inherited by HashSet).
 ###To do so we use the below command
+
 ```Java
 Set<> set=new HashSet<>();
 ```
@@ -15,6 +16,6 @@ Set<> set=new HashSet<>();
 
 # But if you are Curious to know about why Set cannot duplicates value then
 
-![Stackoverflow why Set can not contain duplicate value](https://stackoverflow.com/questions/20870879/why-set-is-not-allowed-duplicate-value-which-kind-of-mechanism-used-behind-them)
+[Stackoverflow why Set can not contain duplicate value](https://stackoverflow.com/questions/20870879/why-set-is-not-allowed-duplicate-value-which-kind-of-mechanism-used-behind-them)
 
 ### Hint ( It lies in the internal working of the set)
