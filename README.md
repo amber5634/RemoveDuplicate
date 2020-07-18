@@ -18,4 +18,6 @@ Set<> set=new HashSet<>();
 
 [Stackoverflow why Set can not contain duplicate value](https://stackoverflow.com/questions/20870879/why-set-is-not-allowed-duplicate-value-which-kind-of-mechanism-used-behind-them)
 
+> Sooner I will update more method with and without using Collections.
+
 > Hint ( It lies in the internal working of the set)
